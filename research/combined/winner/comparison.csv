@@ -1,0 +1,3 @@
+,Algorithm,AUC 1st,AUC 2nd,Accuracy 1st,Accuracy 2nd,Precision 1st,Precision 2nd,Recall 1st,Recall 2nd,F1 1st,F1 2nd
+1,FPGA,25,25,27,23,29,21,27,23,27,23
+2,ARM,25,25,23,27,21,29,23,27,23,27

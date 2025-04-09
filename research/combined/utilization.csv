@@ -1,0 +1,6 @@
+﻿Resource,Utilization,Available,Utilization %
+LUT,5374,53200,10.10
+LUTRAM,362,17400,2.08
+FF,6676,106400,6.27
+BRAM,137.50,140,98.21
+BUFG,1,32,3.13
